@@ -1,0 +1,22 @@
+{
+  "Sanctuary:CB_Master": {
+    "NAME": "Cardboard box",
+    "FLAVOR": "Put an item inside, take an item out! NL Sincerely, a box lover.",
+    "DESCRIPTIONS": [
+      "Upon pickup, box all your relics. Right clicking this relic unboxes them. However, they seem to be misplaced with another box and turn into random relics."
+    ]
+  },
+  "Sanctuary:CB_Recursive": {
+    "NAME": "Cardboard box",
+    "FLAVOR": "It's just a cardboard box",
+    "DESCRIPTIONS": [
+      "It's just a cardboard box. Open it?",
+      "The cardboard box opened into a ",
+      "cardboard box.",
+      "cardboard box into a ",
+      "The cardboard box doesn't want to open. NL Try opening the box later.",
+      "Sellotape prevents you from opening the box.",
+      "There was nothing inside the box."
+    ]
+  }
+}
